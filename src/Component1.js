@@ -10,7 +10,7 @@ function Component1() {
   };
 
   return (
-    <div className="container-2">
+    <div className="container-window">
       <input
         type="checkbox"
         id="toggleCurtain"
