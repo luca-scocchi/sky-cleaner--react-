@@ -1,6 +1,6 @@
 # Sky Cleaner - Air Travel Carbon Footprint Calculator
 
-![Sky Cleaner Banner](https://github.com/luca-scocchi/sky-cleaner--react-)
+![Sky Cleaner Banner](https://images.unsplash.com/photo-1446824505046-e43605ffb17f)
 
 Welcome to Sky Cleaner! This web application, built using the React framework, is designed to calculate the carbon footprint of air travel between different cities. By selecting departure and arrival cities, users can get insights into the environmental impact of their flights and make informed decisions.
 
